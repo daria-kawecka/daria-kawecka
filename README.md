@@ -1,8 +1,8 @@
 ### Hi there < coders />! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center" >
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=daria-kawecka&hide_border=true&bg_color=10,E0C7C7,904e95&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues" alt="gh-stats"/>
-  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=daria-kawecka&layout=compact&hide_border=true&bg_color=-20,904e95,E0C7C7&title_color=fff&text_color=fff&icon_color=fff" alt="gh-lang"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=daria-kawecka&hide_border=true&bg_color=10,E0C7C7,904e95&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues" alt="gh-stats"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=daria-kawecka&layout=compact&hide_border=true&bg_color=-20,904e95,E0C7C7&title_color=fff&text_color=fff&icon_color=fff" alt="gh-lang"/>
 </p>
 <div align="center">
 <img height="30" src="https://visitor-badge.laobi.icu/badge?page_id=daria-kawecka" alt="visitors-badge">
