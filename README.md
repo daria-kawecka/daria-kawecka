@@ -1,14 +1,12 @@
 ### Hi there < coders />! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=daria-kawecka&hide_border=true&bg_color=10,E0C7C7,904e95&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues" alt="gh-stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=daria-kawecka&layout=compact&hide_border=true&bg_color=-20,904e95,E0C7C7&title_color=fff&text_color=fff&icon_color=fff" alt="gh-lang"/>
+<p align="center" >
+  <img height="100" src="https://github-readme-stats.vercel.app/api?username=daria-kawecka&hide_border=true&bg_color=10,E0C7C7,904e95&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues" alt="gh-stats"/>
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=daria-kawecka&layout=compact&hide_border=true&bg_color=-20,904e95,E0C7C7&title_color=fff&text_color=fff&icon_color=fff" alt="gh-lang"/>
 </p>
-
 <div align="center">
 <img height="30" src="https://visitor-badge.laobi.icu/badge?page_id=daria-kawecka" alt="visitors-badge">
 </div>
-
 <p align="center">
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -33,9 +31,4 @@
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 </p>
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1194258153&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1194258153&redirect=true)
-</div>
 
