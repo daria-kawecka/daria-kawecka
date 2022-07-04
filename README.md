@@ -1,4 +1,4 @@
-### Hi there < coders />! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there < coders />! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px">
 
 <p align="center" >
   <img height="120" src="https://github-readme-stats.vercel.app/api?username=daria-kawecka&hide_border=true&bg_color=10,E0C7C7,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=stars,issues&count_private=true" alt="gh-stats"/>
